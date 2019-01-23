@@ -5,7 +5,6 @@ git clone project
 
 cd ./project
 
-
 npm install
 
 
@@ -54,3 +53,9 @@ ext {
 
 The second run:
 react-native run-android
+
+
+
+
+All change:
+https://www.youtube.com/watch?v=zjYYpo_n3iE
